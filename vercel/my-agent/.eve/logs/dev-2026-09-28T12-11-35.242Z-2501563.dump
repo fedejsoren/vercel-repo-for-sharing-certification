@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-09-28T12:12:27.563Z",
+  "durationMs": 52320,
+  "environment": {
+    "eveVersion": "0.67.2",
+    "nodeVersion": "v24.18.0",
+    "platform": "linux x64",
+    "vercelCliVersion": "59.25.4",
+    "vercelCliPath": "/home/federico-sorenson/.nvm/versions/node/v24.18.0/bin/vercel"
+  },
+  "session": null
+}
